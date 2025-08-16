@@ -1,5 +1,7 @@
 ## Facial Emotions Detection
 
+Dataset link: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/data 
+
 Welcome to the Human Facial Emotions Detection project! This application uses a Convolutional Neural Network (CNN) implemented with TensorFlow/Keras to detect and classify human facial emotions from images. The system is built as a Flask web app, allowing users to upload images and receive predictions on emotions such as angry, disgust, fear, happy, neutral, sad, and surprise.
 
 ## Overview
@@ -31,4 +33,5 @@ Before running the project, ensure you have the following installed:
 Install the dependencies using pip:
 
 ```bash
+
 pip install flask tensorflow numpy pillow
